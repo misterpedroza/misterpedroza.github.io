@@ -133,7 +133,7 @@ blockquote {
     padding: 0.25em 40px;
     line-height: 1.45;
     position: relative;
-    color: #383838;
+    color:darkgrey;
 }
 
 blockquote:before {
@@ -143,11 +143,11 @@ blockquote:before {
     position: absolute;
     left: -20px;
     top: -20px;
-    color: #7a7a7a;
+    color: grey;
 }
 
 blockquote cite {
-    color: #999999;
+    color:grey;
     font-size: 20px;
     display: block;
     margin-top: 5px;
@@ -173,7 +173,7 @@ blockquote cite:before {
 .about2_left {
     font-size: 18px;
     color: black;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica';
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -220,7 +220,7 @@ blockquote cite:before {
 .about3_left {
     font-size: 18px;
     color: black;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica';
     box-sizing: border-box;
     margin: 0;
     padding: 0;

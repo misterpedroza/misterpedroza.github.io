@@ -1,0 +1,255 @@
+body {
+    font-size: 40px !important;
+    color: black;
+    font-family: 'Helvetica' !important;
+    margin: 0;
+}
+
+strong {
+    font-size: 30px;
+    color: #000;
+    line-height: 1.2;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'Helvetica';
+}
+
+h2 {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    color: #000;
+    font-family: 'Helvetica';
+    margin-bottom: 0px;
+    max-width: 795px;
+    width: 100%;
+    line-height: 1.2;
+}
+
+audio { 
+    width: 440px; 
+}
+
+#banner {
+    max-height: 50%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+}
+
+.nav {
+    background-color: #ffd028;
+    padding-top: 5px !important;
+}
+
+.nav a{
+    text-decoration: none;
+    
+    padding-bottom: 15px !important;
+    text-align: center !important;
+    font-size: 20px;
+    text-transform: uppercase;
+   
+    color: black;
+}
+
+.container{
+    font-size: 18px;
+    font-family: 'Helvetica';
+    box-sizing: border-box;
+    padding: 0;
+    width: 1110px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.introduction {
+    font-family: 'Helvetica';
+    background: #f1f1f1;
+    padding: 24px 0px 33px;
+    display: block;
+    font-size: 20px !important;
+    color: #000;
+}
+
+.about1 {
+    color: #000;
+    box-sizing: border-box;
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 500px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+#about1_title {
+    color: #000;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 0.9;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+.about1_left {
+    font-size: 18px;
+    color: #000;
+    font-family: 'Helvetica';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: left;
+    max-width: 540px;
+    width: 51%;
+}
+
+.about1_right {
+    font-size: 18px;
+    color: #000;
+    font-family: 'Helvetica';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: right;
+    max-width: 490px;
+    width: 46%;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-style: italic;
+    width: 500px;
+    margin: 0.25em 0;
+    padding: 0.25em 40px;
+    line-height: 1.45;
+    position: relative;
+    color: #383838;
+}
+
+blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a;
+}
+
+blockquote cite {
+    color: #999999;
+    font-size: 20px;
+    display: block;
+    margin-top: 5px;
+}
+     
+blockquote cite:before {
+    content: "\2014 \2009";
+}
+
+.about2 {
+    font-size: 18px;
+    color: white;
+    font-family: 'Helvetica';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 405px;
+    background-color: black;
+    padding-top: 47px;
+    padding-bottom: 53px;
+}
+
+.about2_left {
+    font-size: 18px;
+    color: black;
+    font-family: 'HelveticaNeue';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 42%;
+}
+
+.about2_right {
+    font-size: 18px;
+    color: white;
+    font-family: 'Helvetica';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: right;
+    max-width: 490px;
+    width: 46%;
+}
+
+.about2 h2 span {
+    font-weight: normal;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 0.9;
+    font-size: 60px;
+    box-sizing: border-box;
+    color: #ffd028;
+}
+
+.about3 {
+    color: #000;
+    box-sizing: border-box;
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 380px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+.about3_left {
+    font-size: 18px;
+    color: black;
+    font-family: 'HelveticaNeue';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 42%;
+}
+
+.about3_right {
+    font-size: 18px;
+    color: black;
+    font-family: 'Helvetica';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: right;
+    max-width: 490px;
+    width: 46%;
+}
+
+.footer {
+    font-size: 18px;
+    color: white;
+    font-family: 'Helvetica';
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 140px;
+    background-color: black;
+    padding-top: 47px;
+    padding-bottom: 53px;
+}

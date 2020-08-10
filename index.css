@@ -39,6 +39,14 @@ audio {
     width: 100%;
 }
 
+h1#headline {
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 80;
+}
+
 .nav {
     background-color: #ffd028;
     padding-top: 5px !important;
@@ -204,11 +212,12 @@ blockquote cite:before {
 }
 
 .about3 {
+    background-color: #ffd028;
     color: #000;
     box-sizing: border-box;
     margin: 0;
+    margin-bottom: 0px !important;
     padding-top: 40px;
-    padding-bottom: 40px;
     height: 380px;
     font-weight: normal;
     font-style: normal;
